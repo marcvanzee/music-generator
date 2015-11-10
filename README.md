@@ -1,6 +1,6 @@
 # music-generator
 
-![Music Generator in Netlogo](images/screenshot_1.png)
+![Music Generator in Netlogo](images/screenshot.png)
 
 This project consists of two simulations:
 
